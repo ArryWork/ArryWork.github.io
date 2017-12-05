@@ -1,10 +1,10 @@
-title : Wall-E - Jekyll
-description: 'A Modern Jekyll Theme'
+title : 空空空空空空
+description: ''
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /Test/
+baseurl: /
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
