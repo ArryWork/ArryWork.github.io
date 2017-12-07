@@ -3,6 +3,7 @@ description: ''
 
 markdown: kramdown
 highlighter: rouge
+encoding: utf-8
 logo: false
 paginate: 15
 baseurl: /
